@@ -15,7 +15,7 @@ module.exports = {
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
-  icon: '',
+  icon: 'content/images/flags.png',
   postsPerPage: 6,
   disqusShortname: 'Dillon',
   headerTitle: 'The Electric Corvette',
