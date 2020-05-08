@@ -68,6 +68,7 @@ module.exports = {
         plugins: [`gatsby-remark-images`],
       },
     },
+    `gatsby-plugin-feed`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-styled-components`,
