@@ -17,7 +17,7 @@ module.exports = {
   display: 'standalone',
   icon: 'content/images/flags.png',
   postsPerPage: 6,
-  disqusShortname: 'Dillon',
+  disqusShortname: 'ElectricVette',
   headerTitle: 'The Electric Corvette',
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
@@ -29,10 +29,10 @@ module.exports = {
       label: 'About',
       url: '/about-the-project',
     },
-    // {
-    //   label: 'Installation',
-    //   url: '/how-to-install',
-    // },
+    {
+      label: 'Subscribe',
+      url: '/Subscribe',
+    },
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
@@ -51,19 +51,19 @@ module.exports = {
           label: 'About',
           url: '/about-the-project',
         },
-        // {
-        //   label: 'Installation',
-        //   url: '/how-to-install',
-        // },
+        {
+          label: 'Subscribe',
+          url: '/Subscribe',
+        },
       ],
     },
     {
       sectionName: 'Follow the author',
       links: [
-        // {
-        //   label: 'Website',
-        //   url: 'https://www.maxpou.fr',
-        // },
+        {
+          label: 'Website',
+          url: 'https://www.dillondugan.com',
+        },
         {
           label: 'Twitter',
           url: 'https://twitter.com/_clumsychemist',
