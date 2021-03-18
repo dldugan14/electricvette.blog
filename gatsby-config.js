@@ -38,6 +38,9 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-well-known`,
+    },
+    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],

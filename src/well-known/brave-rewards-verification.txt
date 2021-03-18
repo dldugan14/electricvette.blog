@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: electricvette.blog
+Token: 8c237578746927fc95d2e560a952f748ae113a45b3fd5dfa423eb341a5419821
